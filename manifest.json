@@ -1,0 +1,43 @@
+{
+  "name": "Radio Impacto",
+  "short_name": "Player OK",
+  "description": "Reproductor de radio en vivo - Sami Orlando",
+  "start_url": "https://player.transmisionok.com/player/player_1774354834_26a03722/",
+  "scope": "https://player.transmisionok.com/player/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f2027",
+  "theme_color": "#1db954",
+  "lang": "es-PE",
+
+  "icons": [
+    {
+      "src": "https://i.ibb.co/LDM7gRFW/Captura.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/LDM7gRFW/Captura.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/LDM7gRFW/Captura.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/LDM7gRFW/Captura.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/LDM7gRFW/Captura.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+
+  "categories": ["music", "entertainment"],
+  "prefer_related_applications": false
+}
